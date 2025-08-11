@@ -11,19 +11,20 @@ This project aims to predict the price of used mobile phones and tablets based o
 Source: Kaggle (Used Phones and Tablets Price Prediction Dataset)
 
 ## Techniques
-- Data extraction, cleaning, and preprocessing
-- Feature engineering
-- Model training and evaluation using algorithms like Linear Regression,SVM and Random Forest
-- Visualization of results with matplotlib and seaborn
+* Data extraction, cleaning, and preprocessing
+* Feature engineering
+* Model training and evaluation using algorithms like Linear Regression,SVM and Random Forest
+* Visualization of results with matplotlib and seaborn
 
 ## Libraries & Tools
-Data Processing: pandas, numpy
-Visualization: matplotlib, seaborn
-Machine Learning: scikit-learn, SVM
-Notebook Environment: Jupyter Notebook
+* Data Processing: pandas, numpy
+* Visualization: matplotlib, seaborn
+* Machine Learning: scikit-learn, SVM
+* Notebook Environment: Jupyter Notebook
 
 ## Results
 Best Model: Linear Regression
+
 Achieved the highest R² score (~0.79), indicating a strong linear relationship between device features and the used price.
 
 
