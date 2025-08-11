@@ -2,6 +2,7 @@
 ## Overview
 This was my "first academic project" completed as part of my master's program in Statistics.
 The project was carried out in a team of four members, where I contributed primarily to data extraction, cleaning, and preprocessing tasks.This project allowed me to learn and practice how to apply machine learning and statistical techniques effectively on real-world datasets.
+
 This project is hosted on GitHub to showcase my learning journey and practical application of machine learning and statistical techniques on real-world datasets. It reflects my growing skills in data analytics and my commitment to continuous learning through collaborative academic work.
 
 ## Project Description
@@ -17,9 +18,9 @@ Source: Kaggle (Used Phones and Tablets Price Prediction Dataset)
 * Visualization of results with matplotlib and seaborn
 
 ## Libraries & Tools
-* Data Processing: pandas, numpy
+* Data Processing: pandas, numpy, scipy.stats
 * Visualization: matplotlib, seaborn
-* Machine Learning: scikit-learn, SVM
+* Machine Learning: scikit-learn, SVM, RandomForest
 * Notebook Environment: Jupyter Notebook
 
 ## Results
